@@ -1,4 +1,4 @@
 # hello-world
-First repository on gh
+This is my first repository on GitHub
 
 I am not a blueberry pie.
